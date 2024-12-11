@@ -86,11 +86,4 @@ The project highlights real-world applications of data engineering by creating a
 4. **Generate Reports**:
    - Connect Power BI to SQL Server and load predefined dashboards.
 
----
-
-### **Future Enhancements**
-- Add machine learning models for fraud detection and risk analysis.
-- Implement a role-based access control system to manage user permissions.
-- Expand the project to include additional insurance types (e.g., auto, health).
-
 -------------------------------------------------------------------------------------
